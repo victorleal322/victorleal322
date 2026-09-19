@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Leal+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas+%F0%9F%92%BB;Foco+em+JavaScript+%E2%9A%A1;Construindo+meu+futuro+na+tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:2563eb&height=180&section=header&text=VICTOR%20LEAL&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=JavaScript%20%7C%20React%20%7C%20APIs%20%7C%20Git&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Victor Leal - Desenvolvimento de Sistemas" />
 
 **💻 Estudante de Desenvolvimento de Sistemas | JavaScript • React • APIs • Git**
 
