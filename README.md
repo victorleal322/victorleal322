@@ -26,31 +26,31 @@ Gosto de aprender colocando as coisas em prática, explorando novas tecnologias 
 
 ## 🛠️ Tecnologias
 
-### 💻 Linguagens e desenvolvimento
+###  Linguagens e desenvolvimento
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-### ⚛️ Frameworks e ferramentas
+###  Frameworks e ferramentas
 
 [![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
-### 🗄️ Banco de dados
+###  Banco de dados
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 
-### 📡 Outras tecnologias
+###  Outras tecnologias
 
 [![JSON](https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/JSON)
 [![MQTT](https://img.shields.io/badge/MQTT-111111?style=for-the-badge&logo=mqtt&logoColor=white)](https://mqtt.org/)
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 Meu foco principal atualmente é **JavaScript** e desenvolvimento web.
 
