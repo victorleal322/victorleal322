@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## ✨ Sobre mim
 
 Sou estudante de **Desenvolvimento de Sistemas**, atualmente focado em fortalecer minha base em **JavaScript** e desenvolvimento web.
 
